@@ -1,4 +1,6 @@
-class Solution {
+package java_solution.learn.sortcolors;
+
+public class Approach2 {
     public void sortColors(int[] array) {
         if (array == null || array.length == 0) {
             throw new IllegalArgumentException("Array is null or empty");
@@ -26,7 +28,7 @@ class Solution {
                 if (countTable[contnet] >= 1) {
                     // we need to put zero here in array
                     array[i] = contnet;
-                    
+
                     // now the content has been used 
                     // we need to decrement the count 
                     // from the count table

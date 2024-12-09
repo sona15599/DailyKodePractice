@@ -1,4 +1,6 @@
-class Solution {
+package java_solution.learn.sortcolors;
+
+public class Approach3 {
     public void sortColors(int[] a) {
          if (a == null || a.length == 0) {
             throw new IllegalArgumentException("Array is null or empty");
@@ -19,7 +21,7 @@ class Solution {
                 case 2:
                     // here we need to insert at the high position
                     // and decrement the pointer for any upcoming 2
-                    
+
 
                     // swap the high and mid as it's quite possible 
                     // that while inserting to high original value within 

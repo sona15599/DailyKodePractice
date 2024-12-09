@@ -1,4 +1,9 @@
-class Solution {
+package java_solution.learn.sortvovels;
+
+import java.util.PriorityQueue;
+import java.util.Set;
+
+public class Solution {
     public String sortVowels(String s) {
         // source of sorted vovels
         final PriorityQueue<Character> queue = new PriorityQueue<>();
