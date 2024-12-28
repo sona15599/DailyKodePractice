@@ -1,9 +1,9 @@
 # Search in a sorted Matrix
 
 ---
-> Video description: https://youtu.be/
+> Video description: https://youtu.be/wOrPvmj-u-Q
 
-[Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | [Java Solution](./java_solution/learn/findhindex/Solution.java) | [Discussion](https://www.reddit.com/r/OBrutus/comments/1hlht2e/struggling_with_binary_search/)
+[Problem](https://www.geeksforgeeks.org/problems/search-in-a-matrix-1587115621/1) | [Java Solution](./Solution.java) | [Discussion](https://www.reddit.com/r/OBrutus/comments/1hlht2e/struggling_with_binary_search/)
 
 [![img](https://img.youtube.com/vi/wOrPvmj-u-Q/0.jpg)](https://youtu.be/wOrPvmj-u-Q)
 ---
